@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := 230295r-masato/$(NAME)
+REPOSITORY := masatotakeuchi/$(NAME)
 TAG := 20221206
 GOOS := linux
 GOARCH := amd64
